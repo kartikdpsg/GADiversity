@@ -1,1 +1,1 @@
-# GADiversity
+At first, this code will take input of the total number of students. After that, it will take input of marks of every student. Then, firstly, all marks are grouped randomly. Then, after each step of genetic algorithm like crossover, mutation, it will try to regroup these marks trying to minimise the fitness value and after each step, fitness value is printed which is given in the output file. Then finally, an array of the total number of students is printed denoting the group to which it belongs. And at last, final minimised fitness value is printed.
